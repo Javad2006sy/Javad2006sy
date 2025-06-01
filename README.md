@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Javad Seyedi (Mr_ J)
 - 👀 I’m interested in Software Engineering & Game Development
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently coding with python & JavaScript
 - 💞️ I’m looking to collaborate on Web and Game Projects
-- 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
