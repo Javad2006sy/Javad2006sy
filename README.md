@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/689f2b04db704a2633e2ecd7?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/689f2b04db704a2633e2ecd7?variant=dark&roadmaps=)](https://roadmap.sh)
 
 - 👋 Hi, I’m Javad Seyedi (Mr_ J)
 - 👀 I’m interested in Software Engineering & Game Development
