@@ -28,6 +28,7 @@ Here are some of my highlighted projects:
 - 🔹 To Do Extension – a simple task managment extension for chrome (Vanilla Js)
 - 🔹 MovieVerse App – a movie search app made with React 
 - 🔹 Suduko Game – Sudoku game with difficulty level made with React
+- 🔹 Habit Tracker App UI - Pixel-perfect Figma-to-code implementation with pure HTML & CSS
 
 > Check my pinned repositories below 👇
 
